@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Personal AI Agent - コンテキスト管理システム
 """

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Personal AI Agent - 認証・認可システム
 """

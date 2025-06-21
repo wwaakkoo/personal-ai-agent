@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Personal AI Agent - LLM API統合プロバイダー
 """
