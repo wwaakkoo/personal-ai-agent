@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Personal AI Agent - メインエントリーポイント
 個人業務・生活支援AIエージェントシステム

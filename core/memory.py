@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Personal AI Agent - 記憶・学習システム
 """
